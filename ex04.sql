@@ -1,0 +1,1 @@
+create database course_students_db;
